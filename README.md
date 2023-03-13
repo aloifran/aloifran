@@ -1,8 +1,6 @@
 
 # Hi, I'm Francisco 👋
 
-👩‍💻 I'm currently working on personal projects to showcase.
-
 🧠 I'm currently learning React and exploring the possibilites of Framer Motion animation library, and also Vue with the amazing Vuetify framework.
 
 
