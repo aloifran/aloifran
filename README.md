@@ -1,9 +1,6 @@
 
 # Hi, I'm Francisco 👋
 
-🧠 I'm currently learning React and exploring the possibilites of Framer Motion animation library, and also Vue with the amazing Vuetify framework.
-
-
 [![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=aloifran&count_private=true&show_icons=true&theme=transparent)](https://github.com/aloifran/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloifran&layout=compact&theme=transparent)](https://github.com/aloifran/github-readme-stats)
